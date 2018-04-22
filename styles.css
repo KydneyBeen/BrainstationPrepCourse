@@ -1,0 +1,32 @@
+body {
+	font-family: calibri;
+}
+
+#key {
+	position: relative;
+	left: 40px;
+}
+
+.category {
+	position: relative;
+	left: 40px;
+}
+
+.job {
+	position: relative;
+	left: 80px;
+}
+
+#title {
+	font-family: cambria;
+}
+
+#references {
+	position: relative;
+	text-align: center;
+}
+
+#page {
+	position: relative;
+	width: 600px;
+}
